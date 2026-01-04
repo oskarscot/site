@@ -12,6 +12,13 @@ Thank you for your interest in contributing to the Hytale Modding Documentation 
 - [Style Guide](#style-guide)
 - [Community](#community)
 
+## Website Guides
+
+Alongside this, you are requested to follow our guides related to contributing on our website:
+
+- [PR Guidelines](https://hytalemodding.dev/en/docs/contributing/pr-guidelines)
+- [How-to for Writing Guides](https://hytalemodding.dev/en/docs/contributing/writing-guides)
+
 ## Code of Conduct
 
 This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to the project maintainers.

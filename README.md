@@ -15,6 +15,14 @@ Hytale is designed with a server-first modding approach, allowing anyone to crea
 
 This documentation aims to help you get started and master Hytale modding.
 
+## Contributing
+
+If you'd like to contribute to this website, you can follow our [Contributing Guide](./CONTRIBUTING.md), or follow the version on our website:
+
+- [Setting Up/Basics](https://hytalemodding.dev/en/docs/contributing)
+- [PR Guidelines](https://hytalemodding.dev/en/docs/contributing/pr-guidelines)
+- [Writing Guides](https://hytalemodding.dev/en/docs/contributing/writing-guides)
+
 ## Getting Started
 
 ### Prerequisites
