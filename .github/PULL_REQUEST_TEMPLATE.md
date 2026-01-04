@@ -12,16 +12,6 @@ Brief description of what this PR does.
 - [ ] New feature
 - [ ] Other
 
-## Related Issues
-
-Fixes #(issue)
-
-## Changes
-
--
--
--
-
 ## Screenshots
 
 If applicable, add before/after screenshots:
